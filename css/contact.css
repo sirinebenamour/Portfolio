@@ -1,0 +1,23 @@
+/* titre */
+
+.first-title {
+  width: 80%;
+  margin-left: 15%;
+}
+
+.img-affiches {
+  width: 100%;
+}
+
+.special-contact a {
+  font-size: 1.8vw;
+}
+
+.special-contact {
+  margin-bottom: 5%;
+}
+
+.special-contact-button p,
+.special-contact-button a {
+  font-size: 1.8vw;
+}

@@ -1,0 +1,67 @@
+html {
+  background-color: #e7e7e7;
+  color: #1e1e1e;
+  scroll-behavior: smooth;
+}
+a {
+  color: #1e1e1e;
+  font-family: text-light;
+}
+p {
+  font-family: text-light;
+  font-size: 1.2vw;
+}
+h1 {
+  font-family: title;
+}
+h2 {
+  font-family: text-bold;
+}
+h3 {
+  font-family: text-regular;
+}
+
+/* couleur */
+
+:root {
+  --jaune-sisi: #f0c300;
+  --noir-sisi: #1e1e1e;
+}
+
+/* titre */
+
+@font-face {
+  font-family: "title";
+  src: url("/font/elegant.otf");
+}
+
+/* texte */
+
+@font-face {
+  font-family: "text-light";
+  src: url("/font/EvolveSansLight.otf");
+}
+
+@font-face {
+  font-family: "text-regular";
+  src: url("/font/EvolveSansRegular.otf");
+}
+
+@font-face {
+  font-family: "text-bold";
+  src: url("/font/EvolveSansBold.otf");
+}
+
+.title {
+  font-family: title;
+}
+
+.light {
+  font-family: text-light;
+}
+.regular {
+  font-family: text-regular;
+}
+.bold {
+  font-family: text-bold;
+}

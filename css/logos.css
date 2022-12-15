@@ -1,0 +1,106 @@
+/* titre */
+
+.first-title {
+  width: 90%;
+  margin-left: 10%;
+}
+
+.img-affiches {
+  width: 100%;
+}
+
+/* logo */
+
+table {
+  border-top: 3px solid black;
+  width: 90%;
+  margin: auto;
+}
+
+tr {
+  border-top: 3px solid black;
+}
+
+td {
+  vertical-align: top;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.align {
+  display: flex;
+  flex-direction: row;
+}
+
+/* premier travail */
+
+.title-align {
+  display: flex;
+  flex-direction: row;
+}
+
+.first-logo {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+  margin-left: 3%;
+  float: right;
+  width: 70%;
+}
+
+.rectangle-logo {
+  border: 1px solid;
+  width: 5%;
+}
+
+.right-container {
+  margin-left: 2%;
+}
+
+.first-title-motion {
+  margin-bottom: 1%;
+  font-size: 1.8vw;
+}
+
+.rectangle-jaune {
+  background-color: var(--jaune-sisi);
+  float: right;
+  height: 17px;
+  width: 62%;
+  margin-top: -7%;
+}
+
+.rectangle-jaune-2 {
+  background-color: var(--jaune-sisi);
+  float: right;
+  height: 17px;
+  width: 78%;
+  margin-top: -7%;
+}
+
+.logo-1 {
+  width: 70%;
+  margin-top: 3%;
+}
+
+.logo-2 {
+  width: 100%;
+  margin-top: 3%;
+}
+
+.description-logo {
+  margin-top: 3%;
+}
+
+.date {
+  font-size: 1.1vw;
+  margin-top: 5%;
+  color: grey;
+  font-family: text-bold;
+}
+
+.logiciels {
+  font-size: 1.1vw;
+  font-family: text-bold;
+  margin-top: 1%;
+}

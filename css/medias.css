@@ -1,0 +1,254 @@
+/* titre */
+
+.first-title {
+  width: 90%;
+  margin-left: 10%;
+}
+
+.img-affiches {
+  width: 100%;
+}
+
+/* BAR */
+
+.bar {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10%;
+  font-family: text-light;
+}
+
+.bar2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  font-family: text-light;
+}
+.bar-text1,
+.bar-text2 {
+  font-size: 1.3vw;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.bar-text1 {
+  margin-left: 1%;
+}
+
+.bar a:hover {
+  font-family: text-bold;
+}
+
+/* ACTIVE */
+
+.active {
+  font-family: text-bold;
+}
+
+/* ETOILE */
+
+.stars {
+  width: 1%;
+  height: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+/* NUMERO */
+
+.number {
+  font-size: 2.2vw;
+  color: var(--jaune-sisi);
+  font-family: title;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: -0.5%;
+}
+
+.bar-line-front {
+  display: flex;
+  content: "";
+  margin-top: 0.2%;
+  height: 0.75vw;
+  width: 2%;
+  background-color: var(--noir-sisi);
+}
+
+.bar-line-back {
+  display: flex;
+  content: "";
+  margin-top: 0.2%;
+  margin-bottom: auto;
+  margin-left: 2%;
+  height: 0.75vw;
+  background-color: var(--noir-sisi);
+  width: 58.2%;
+}
+
+.bar-line-back2 {
+  display: flex;
+  content: "";
+  margin-top: 0.2%;
+  margin-bottom: auto;
+  margin-left: 2%;
+  height: 0.75vw;
+  background-color: var(--noir-sisi);
+  width: 57.5%;
+}
+
+.bar-line-afternumber {
+  display: flex;
+  content: "";
+  margin-top: 0.2%;
+  margin-bottom: auto;
+  height: 0.75vw;
+  width: 4%;
+  background-color: var(--noir-sisi);
+}
+
+/* photographie */
+
+.photographie {
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.title-photographie {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+}
+
+.title-photographie h1 {
+  font-size: 4.5vw;
+}
+
+.big-stars {
+  width: 3%;
+  height: 3%;
+  margin-top: -2%;
+}
+
+.description {
+  margin-top: 2%;
+  width: 100%;
+  font-size: 1.6vw;
+  line-height: 1.2;
+}
+
+.description a {
+  text-decoration: none;
+}
+
+.description a:hover {
+  text-decoration: underline;
+}
+
+/* tableau */
+
+table {
+  width: 100%;
+  margin-top: 2%;
+}
+
+td {
+  vertical-align: middle;
+}
+
+table tr td {
+  padding: 1%;
+}
+
+table tr td img {
+  width: 100%;
+}
+
+.txtcontenu {
+  opacity: 0;
+  color: var(--noir-sisi);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+td:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}
+
+/* motion */
+
+.motion {
+  width: 80%;
+  margin: auto;
+  margin-top: 4%;
+}
+
+.title-motion {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50%;
+}
+
+.title-motion h1 {
+  font-size: 4.5vw;
+}
+
+.big-star2 {
+  margin-top: 9%;
+  width: 6%;
+  height: 6%;
+}
+
+/* premier travail */
+
+.first-video {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+}
+
+.rectangle-left {
+  border: 1px solid;
+  width: 3%;
+}
+
+.right-container {
+  margin-left: 2%;
+}
+
+.first-title-motion {
+  margin-bottom: 1%;
+  font-size: 3.5vw;
+}
+
+.rectangle-jaune {
+  background-color: var(--jaune-sisi);
+  float: right;
+  height: 17px;
+  width: 58%;
+  margin-top: -2.5%;
+}
+
+iframe {
+  margin-top: 2%;
+}
+
+.description-video {
+  margin-top: 1%;
+}
+
+.date {
+  font-size: 1.1vw;
+  margin-top: 1.5%;
+  color: grey;
+  font-family: text-bold;
+}
+
+.logiciels {
+  font-size: 1.1vw;
+  font-family: text-bold;
+}
