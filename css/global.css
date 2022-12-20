@@ -5,20 +5,20 @@ html {
 }
 a {
   color: #1e1e1e;
-  font-family: text-light;
+  font-family: "text-light";
 }
 p {
-  font-family: text-light;
+  font-family: "text-light";
   font-size: 1.2vw;
 }
 h1 {
-  font-family: title;
+  font-family: "title";
 }
 h2 {
-  font-family: text-bold;
+  font-family: "text-bold";
 }
 h3 {
-  font-family: text-regular;
+  font-family: "text-regular";
 }
 
 /* couleur */
