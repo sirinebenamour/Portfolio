@@ -54,15 +54,15 @@ h3 {
 }
 
 .title {
-  font-family: title;
+  font-family: "title";
 }
 
 .light {
-  font-family: text-light;
+  font-family: "text-light";
 }
 .regular {
-  font-family: text-regular;
+  font-family: "text-regular";
 }
 .bold {
-  font-family: text-bold;
+  font-family: "text-bold";
 }
