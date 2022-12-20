@@ -32,25 +32,25 @@ h3 {
 
 @font-face {
   font-family: "title";
-  src: url("/font/elegant.otf") format("opentype"),
-       url("/font/elegant.ttf") format("truetype");
+  src: url("../font/elegant.otf") format("opentype"),
+       url("../font/elegant.ttf") format("truetype");
 }
 
 /* texte */
 
 @font-face {
   font-family: "text-light";
-  src: url("/font/EvolveSansLight.otf") format("opentype");
+  src: url("../font/EvolveSansLight.otf") format("opentype");
 }
 
 @font-face {
   font-family: "text-regular";
-  src: url("/font/EvolveSansRegular.otf") format("opentype");
+  src: url("../font/EvolveSansRegular.otf") format("opentype");
 }
 
 @font-face {
   font-family: "text-bold";
-  src: url("/font/EvolveSansBold.otf") format("opentype");
+  src: url("../font/EvolveSansBold.otf") format("opentype");
 }
 
 .title {
