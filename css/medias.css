@@ -82,7 +82,7 @@
   margin-left: 2%;
   height: 0.75vw;
   background-color: var(--noir-sisi);
-  width: 58.2%;
+  width: 58%;
 }
 
 .bar-line-back2 {
@@ -191,10 +191,15 @@ td:hover {
   display: flex;
   flex-direction: row;
   margin-left: 50%;
+  margin-bottom: 2vw;
 }
 
 .title-motion h1 {
   font-size: 4.5vw;
+}
+
+.first-title-motion {
+  margin-right: 30%;
 }
 
 .big-star2 {
@@ -208,7 +213,9 @@ td:hover {
 .first-video {
   display: flex;
   flex-direction: row;
-  margin-top: 3%;
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .rectangle-left {
