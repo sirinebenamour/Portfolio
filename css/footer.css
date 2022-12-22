@@ -67,3 +67,15 @@
   padding: 6%;
   background-color: var(--jaune-sisi);
 }
+
+/* developpement */
+
+.developp {
+  margin-top: 2%;
+  text-align: right;
+  font-size: 1vw !important;
+}
+
+.developp a {
+  padding: 0%;
+}
