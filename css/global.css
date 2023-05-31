@@ -33,7 +33,7 @@ h3 {
 @font-face {
   font-family: "title";
   src: url("../font/elegant.otf") format("opentype"),
-       url("../font/elegant.ttf") format("truetype");
+    url("../font/elegant.ttf") format("truetype");
 }
 
 /* texte */

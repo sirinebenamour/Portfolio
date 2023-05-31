@@ -130,6 +130,14 @@
   border-right: none;
 }
 
+.logiciel-3 {
+  margin-left: 40%;
+  padding: 1%;
+  text-align: right;
+  border: 1px solid var(--noir-sisi);
+  border-right: none;
+}
+
 .date {
   width: 70%;
   text-align: right;

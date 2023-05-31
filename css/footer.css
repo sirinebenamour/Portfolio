@@ -59,6 +59,13 @@
   text-transform: uppercase;
 }
 
+.button-top {
+  text-align: center;
+  margin-top: 5%;
+
+  text-transform: uppercase;
+}
+
 .button-download {
   margin-top: 35%;
   text-decoration: none;
